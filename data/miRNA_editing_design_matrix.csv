@@ -1,0 +1,84 @@
+Individual.ID,Diagnosis,Age,Sex
+A206.89_vermis_3rd,Control,22,M
+A246.93_vermis_3rd,Control,41,M
+A247.92_vermis_3rd,Control,40,M
+A268.93_vermis_3rd,Control,37,M
+AN00142_vermis_57,Control,44,M
+AN00493_vermis_105x,Autism Spectrum Disorder,27,M
+AN01093_vermis_108,Autism Spectrum Disorder,56,M
+AN01125_vermis_24,Control,56,M
+AN01410_vermis_69,Control,41,M
+AN01570_vermis_60,Autism Spectrum Disorder,18,F
+AN02987_vermis_1st,Autism Spectrum Disorder,15,M
+AN03217_vermis_1st,Control,19,M
+AN03217_vermis_93,Control,19,M
+AN03632_vermis_1st,Autism Spectrum Disorder,49,F
+AN03935_vermis_1st,Autism Spectrum Disorder,19,M
+AN04682_vermis_2nd,Autism Spectrum Disorder,15,M
+AN05983_vermis_1st,Autism Spectrum Disorder,24,M
+AN06133_vermis_3rd,Autism Spectrum Disorder,81,M
+AN06420_vermis_54,Autism Spectrum Disorder,39,M
+AN06875_vermis_3rd,Autism Spectrum Disorder,68,M
+AN07444_vermis_2nd,Control,17,M
+AN08043_vermis_1st,Autism Spectrum Disorder,52,F
+AN08161_vermis_2nd,Control,36,F
+AN08677_vermis_2nd,Control,38,M
+AN08792_vermis_103,Autism Spectrum Disorder,30,M
+AN08873_vermis_78,Autism Spectrum Disorder,5,M
+AN09402_vermis_1st,Autism Spectrum Disorder,11,M
+AN09714_vermis_1st,Autism Spectrum Disorder,60,M
+AN09730_vermis_120,Autism Spectrum Disorder,22,M
+AN10028_vermis_117,Control,36,M
+AN10679_vermis_2nd,Control,41,F
+AN10723_vermis_2nd,Control,60,M
+AN10833_vermis_48,Control,22,M
+AN11864_vermis_3rd,Control,57,M
+AN11989_vermis_111,Autism Spectrum Disorder,30,M
+AN11989_vermis_42,Autism Spectrum Disorder,30,M
+AN12137_vermis_21,Control,31,M
+AN12240_vermis_9,Control,51,M
+AN12457_vermis_36,Autism Spectrum Disorder,29,F
+AN13295_vermis_90,Control,56,M
+AN13872_vermis_51,Autism Spectrum Disorder,5,F
+AN14757_vermis_2nd,Control,24,M
+AN14757_vermis_39,Control,24,M
+AN14762_vermis_1st,Autism Spectrum Disorder,9,M
+AN14829_vermis_1st,Autism Spectrum Disorder,26,F
+AN15566_vermis_30,Control,32,F
+AN16641_vermis_75,Autism Spectrum Disorder,9,M
+AN17138_vermis_45,Autism Spectrum Disorder,16,M
+AN17254_vermis_100,Autism Spectrum Disorder,51,M
+AN17425_vermis_1st,Control,16,M
+AN17425_vermis_33,Control,16,M
+AN17515_vermis_1st,Autism Spectrum Disorder,54,M
+AN17678_vermis_1st,Autism Spectrum Disorder,11,M
+AN17777_vermis_84,Control,49,F
+AN19511_vermis_114,Autism Spectrum Disorder,8,M
+AN19760_vermis_27,Control,28,M
+NP024.10_vermis_3rd,Control,62,M
+NP26.11_vermis_3rd,Autism Spectrum Disorder,22,M
+NP27.11_vermis_3rd,Autism Spectrum Disorder,14,M
+NP56.10_vermis_3rd,Autism Spectrum Disorder,44,M
+NP72.11_vermis_3rd,Autism Spectrum Disorder,15,M
+NP90.09_vermis_3rd,Autism Spectrum Disorder,50,M
+UMB1376_vermis_2nd,Control,37,M
+UMB1578_vermis_1st,Control,53,M
+UMB4337_vermis_2nd,Control,8,M
+UMB4590_vermis_2nd,Control,20,M
+UMB4842_vermis_3rd,Control,47,M
+UMB4849_vermis_1st,Autism Spectrum Disorder,7,M
+UMB5027_vermis_2nd,Autism Spectrum Disorder,37,M
+UMB5079_vermis_1st,Control,33,M
+UMB5115_vermis_1st,Autism Spectrum Disorder,46,M
+UMB5144_vermis_2nd,Autism Spectrum Disorder,7,M
+UMB5163_vermis_2nd,Control,15,M
+UMB5168_vermis_2nd,Control,16,F
+UMB5176_vermis_2nd,Autism Spectrum Disorder,23,M
+UMB5242_vermis_2nd,Control,15,M
+UMB5278_vermis_1st,Autism Spectrum Disorder,16,F
+UMB5297_vermis_2nd,Autism Spectrum Disorder,33,M
+UMB5302_vermis_1st,Autism Spectrum Disorder,16,M
+UMB5303_vermis_1st,Autism Spectrum Disorder,67,M
+UMB5308_vermis_1st,Autism Spectrum Disorder,4,M
+UMB5340_vermis_1st,Autism Spectrum Disorder,53,M
+UMB5342_vermis_1st,Control,23,M
